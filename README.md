@@ -1,5 +1,3 @@
-<img src=“https://pkp.sfu.ca/wp-content/uploads/2012/10/pkp_logo_vert3.png”/>
-
 # PKP Documentation Interest Group
 
 A place for organizing the greater OJS documentation community.
@@ -9,6 +7,7 @@ A place for organizing the greater OJS documentation community.
 - Kevin Stranack, Simon Fraser University/PKP
 - Mike Nason, University of New Brunswick/PKP
 - Roger Gillis, Dalhousie University/PKP
+- James MacGregor, some bike path somewhere... 
 
 ## Terms of Reference
 
