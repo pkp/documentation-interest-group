@@ -7,7 +7,8 @@ A place for organizing the greater OJS documentation community.
 - Kevin Stranack, Simon Fraser University/PKP
 - Mike Nason, University of New Brunswick/PKP
 - Roger Gillis, Dalhousie University/PKP
-- James MacGregor, some bike path somewhere... 
+- James MacGregor, some bike path somewhere...
+- Gerrit Kühle, Dresen
 
 ## Terms of Reference
 
