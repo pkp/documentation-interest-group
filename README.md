@@ -1,8 +1,8 @@
-<img src=“https://avatars3.githubusercontent.com/u/130896?v=3&s=200”/>
+<img src=“https://pkp.sfu.ca/wp-content/uploads/2012/10/pkp_logo_vert3.png”/>
 
 # PKP Documentation Interest Group
 
-A place for organizing the greater OJS documentation community. 
+A place for organizing the greater OJS documentation community.
 
 ## Membership
 
@@ -13,4 +13,3 @@ A place for organizing the greater OJS documentation community.
 ## Terms of Reference
 
 _Coming soon!_
-
