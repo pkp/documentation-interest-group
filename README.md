@@ -2,6 +2,8 @@
 
 A place for organizing the greater OJS documentation community.
 
+Find out more on the <a href="https://github.com/pkp/documentation-interest-group/wiki">group's wiki</a>.
+
 ## Membership
 
 - Kevin Stranack, Simon Fraser University/PKP
