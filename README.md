@@ -6,11 +6,12 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 
 ## Membership
 
-- Kevin Stranack, Simon Fraser University/PKP
-- Mike Nason, University of New Brunswick/PKP
 - Roger Gillis, Dalhousie University/PKP
-- James MacGregor, some bike path somewhere...
-- Gerrit Kühle, Dresen
+- Gerrit Kühle, Saxon State and University Library Dresden
+- James MacGregor, PKP
+- Mike Nason, University of New Brunswick/PKP
+- Kevin Stranack, Simon Fraser University/PKP
+- Dulip Withanage, University of Heidelberg
 
 ## Terms of Reference
 
