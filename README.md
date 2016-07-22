@@ -11,6 +11,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - James MacGregor, PKP
 - Mike Nason, University of New Brunswick/PKP
 - Kevin Stranack, Simon Fraser University/PKP
+- Marco Tullney, PKP Translation Management Coordinator
 - Dulip Withanage, University of Heidelberg
 
 ## Terms of Reference
