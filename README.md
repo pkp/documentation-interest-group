@@ -7,6 +7,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 ## Membership
 
 - Roger Gillis, Dalhousie University/PKP
+- Jeanette Hatherill, University of Ottawa
 - Gerrit Kühle, Saxon State and University Library Dresden
 - James MacGregor, PKP
 - Mike Nason, University of New Brunswick/PKP
