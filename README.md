@@ -6,6 +6,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 
 ## Membership
 
+- Israel Cefrin
 - Carola Fanselow, Freie Universität Berlin
 - Roger Gillis, Dalhousie University/PKP
 - Jeanette Hatherill, University of Ottawa
