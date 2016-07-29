@@ -13,6 +13,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - Jeanette Hatherill, University of Ottawa
 - David Johnston, University of Windsor
 - Gerrit Kühle, Saxon State and University Library Dresden
+- Jessica Lange, McGill University
 - James MacGregor, PKP
 - Mike Nason, University of New Brunswick/PKP
 - Kaitlin Newson, University of Toronto/Scholars Portal
