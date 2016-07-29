@@ -9,11 +9,13 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - Carola Fanselow, Freie Universität Berlin
 - Roger Gillis, Dalhousie University/PKP
 - Jeanette Hatherill, University of Ottawa
+- David Johnston, University of Windsor
 - Gerrit Kühle, Saxon State and University Library Dresden
 - James MacGregor, PKP
 - Mike Nason, University of New Brunswick/PKP
 - Kaitlin Newson, University of Toronto/Scholars Portal
 - Kevin Stranack, Simon Fraser University/PKP
+- Primož Svetek
 - Marco Tullney, PKP Translation Management Coordinator
 - Erwin Verbruggen, Netherlands Institute for Sound and Vision
 - Dulip Withanage, University of Heidelberg
