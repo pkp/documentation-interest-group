@@ -15,6 +15,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - Gerrit Kühle, Saxon State and University Library Dresden
 - Jessica Lange, McGill University
 - James MacGregor, PKP
+- Dr. Dilruba Mahbubam, Northern University Bangladesh
 - Mike Nason, University of New Brunswick/PKP
 - Kaitlin Newson, University of Toronto/Scholars Portal
 - Kevin Stranack, Simon Fraser University/PKP
