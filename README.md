@@ -8,14 +8,18 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 
 - Adam A. Bahishti, Majmaah University
 - Israel Cefrin
+- Rosarie Coughlan, Queens University
 - Carola Fanselow, Freie Universität Berlin
+- Roberto García Sánchez, Universidad Católica de Santiago de Guayaquil
 - Roger Gillis, Dalhousie University/PKP
 - Jeanette Hatherill, University of Ottawa
 - David Johnston, University of Windsor
+- Wayne Johnston, University of Guelph
 - Gerrit Kühle, Saxon State and University Library Dresden
 - Jessica Lange, McGill University
 - James MacGregor, PKP
-- Dr. Dilruba Mahbubam, Northern University Bangladesh
+- Dilruba Mahbubam, Northern University Bangladesh
+- Mariya Maistrovskaya, University of Toronto
 - Mike Nason, University of New Brunswick/PKP
 - Kaitlin Newson, University of Toronto/Scholars Portal
 - Kevin Stranack, Simon Fraser University/PKP
