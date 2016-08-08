@@ -23,6 +23,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - Kamran Mir, Allama Iqbal Open University
 - Mike Nason, University of New Brunswick/PKP
 - Kaitlin Newson, University of Toronto/Scholars Portal
+- Antti-Jussi Nygård, Federation of Finnish Learned Societies
 - Kevin Stranack, Simon Fraser University/PKP
 - Primož Svetek
 - Marco Tullney, PKP Translation Management Coordinator
