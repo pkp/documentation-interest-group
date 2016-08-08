@@ -20,6 +20,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - James MacGregor, PKP
 - Dilruba Mahbubam, Northern University Bangladesh
 - Mariya Maistrovskaya, University of Toronto
+- Kamran Mir, Allama Iqbal Open University
 - Mike Nason, University of New Brunswick/PKP
 - Kaitlin Newson, University of Toronto/Scholars Portal
 - Kevin Stranack, Simon Fraser University/PKP
