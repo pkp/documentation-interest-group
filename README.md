@@ -25,7 +25,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - Kaitlin Newson, University of Toronto/Scholars Portal
 - Antti-Jussi Nygård, Federation of Finnish Learned Societies
 - Kevin Stranack, Simon Fraser University/PKP
-- Primož Svetek
+- Primož Svetek, Independent OJS Consultant
 - Marco Tullney, PKP Translation Management Coordinator
 - Erwin Verbruggen, Netherlands Institute for Sound and Vision
 - Dulip Withanage, University of Heidelberg
