@@ -22,7 +22,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - Mariya Maistrovskaya, University of Toronto
 - Courtney Earl Matthews, University of Waterloo
 - Kamran Mir, Allama Iqbal Open University
-- Mike Nason, University of New Brunswick/PKP
+- Mike Nason (DIG Coordinator), University of New Brunswick/PKP
 - Kaitlin Newson, University of Toronto/Scholars Portal
 - Antti-Jussi Nygård, Federation of Finnish Learned Societies
 - Kevin Stranack, Simon Fraser University/PKP
