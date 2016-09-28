@@ -28,7 +28,6 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 - Kevin Stranack, Simon Fraser University/PKP
 - Primož Svetek, Independent OJS Consultant
 - Marco Tullney, PKP Translation Management Coordinator
-- Erwin Verbruggen, Netherlands Institute for Sound and Vision
 - Dulip Withanage, University of Heidelberg
 
 ## Terms of Reference
