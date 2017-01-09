@@ -7,7 +7,7 @@ Find out more on the <a href="https://github.com/pkp/documentation-interest-grou
 ## Membership
 
 - Adam A. Bahishti, Majmaah University
-- Israel Cefrin
+- Israel Cefrin, Fundação de Economia e Estatística
 - Rosarie Coughlan, Queens University
 - Carola Fanselow, Freie Universität Berlin
 - Roberto García Sánchez, Universidad Católica de Santiago de Guayaquil
