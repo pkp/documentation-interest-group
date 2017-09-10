@@ -4,11 +4,11 @@ In prep for OJS 3.1 release, we'll be updating our documentation while also expl
 
 Take "Learning OJS" for example. There's a github directory for the book now, and you if you click on the "branch" icon, you can see that it has multiple branches. 
 
-![branches in github](documentation-interest-group/images/branch1.gif)
+![branches in github](https://github.com/pkp/documentation-interest-group/blob/master/images/branch1.gif?raw=true)
 
 The same is true for GitBook. When editing, we can see that a GitBook has multiple branches. You simply select which branch you want to edit and make your changes. The version of the book you're updating will receive the changes you make. 
 
-![branches in gitbook]()
+![branches in gitbook](https://github.com/pkp/documentation-interest-group/blob/master/images/branch2.gif?raw=true)
 
 ## "master" vs "branch"
 
